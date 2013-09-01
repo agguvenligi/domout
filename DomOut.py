@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# By Galkan , twitter: @cigalkan
+# By Galkan 
 
 try:
 	import sys
@@ -170,9 +170,7 @@ class DATE ():
 		
 		self.calculate_date(date_list, domain, expire_time, email_config)
 
-###
-## By Galkan , twitter: @cigalkan
-###
+
 
 if __name__ == "__main__":
 
